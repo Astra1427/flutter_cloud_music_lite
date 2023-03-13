@@ -1,0 +1,15 @@
+{
+  "app_name": "CloudMusic lite",
+  "settings_theme": "Theme",
+  "settings_themes": {
+    "system": "system",
+    "light": "light",
+    "dark": "dark"
+  },
+  "settings_language": "Language",
+  "buttons": {
+    "login": "Login",
+    "sign_in": "Sign-in",
+    "logout": "Logout"
+  }
+}

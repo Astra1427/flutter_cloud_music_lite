@@ -1,0 +1,15 @@
+{
+  "app_name": "云音乐 lite",
+  "settings_theme": "主题",
+  "settings_themes": {
+    "system": "跟随系统",
+    "light": "浅色",
+    "dark": "深色"
+  },
+  "settings_language": "语言",
+  "buttons": {
+    "login": "登录",
+    "sign_in": "注册",
+    "logout": "退出登录"
+  }
+}
