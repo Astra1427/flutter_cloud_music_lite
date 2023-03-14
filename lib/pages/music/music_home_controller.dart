@@ -25,9 +25,10 @@ class MusicHomeController extends GetxController {
   }
 
   @override
-  void onReady() {
+  void onReady() async{
     // TODO: implement onReady
     super.onReady();
+    refreshMusic();
   }
 
   @override

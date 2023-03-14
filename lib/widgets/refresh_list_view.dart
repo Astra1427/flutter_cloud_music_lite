@@ -33,6 +33,7 @@ class RefreshListView extends StatelessWidget {
           footer: const MaterialFooter(),
           onLoad: onLoad,
           onRefresh: onRefresh,
+
           child: ListView.separated(
 
               itemBuilder: itemBuilder,
